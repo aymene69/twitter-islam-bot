@@ -1,5 +1,7 @@
 # twitter-islam-bot
-Twitter bot that uploads hadiths and Quran on a defined basis 
+Twitter bot that uploads hadiths and Quran on a defined basis.
+
+It sends once a Black video with random ayas (not randomly exactly, but ayas starting from a random position. i.e: surah 2 starting from 255) and a hadith twice everyday.
 
 # Usage
 You need to get Mutagen and tweepy libraries for Python, and ffmpeg in your PATH.
